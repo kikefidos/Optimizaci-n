@@ -30,7 +30,7 @@ Datasets (opcional)
 data/raw/
 data/processed/
 
-### 1. Clonación y Configuración:
+1. Clonación y Configuración:
 ```bash
 # Clona el repositorio
 git clone https://github.com/tu-usuario/preprocesamiento-ciencia-datos.git
